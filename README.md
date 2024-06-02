@@ -69,41 +69,41 @@ Desenvolvimento Web e Aplicações Móveis, Engenharia de Software, Metodologia 
 ## Cursos e Certificações `certifications and additional activities`
 
 ### Curso Next.js  
-**Instituição:** Origamid &nbsp; **Carga Horária:** 18h &nbsp; **Data de Conclusão:** 2024<br>
+**Instituição:** Origamid &nbsp; **Carga Horária:** 18 horas &nbsp; **Data de Conclusão:** 2024<br>
 Integração com APIs, renderização do lado do servidor, e otimização de desempenho. 
 
 ### Curso React com Typescript
-**Instituição:** Origamid &nbsp; **Carga Horária:** 23h  &nbsp; **Data de Conclusão:** 2024<br> 
+**Instituição:** Origamid &nbsp; **Carga Horária:** 23 horas  &nbsp; **Data de Conclusão:** 2024<br> 
 Tipagem estática, criação de componentes reutilizáveis, e gestão de estados com Typescript.
 
 ### Monitoria em Algoritmo e Programação
-**Instituição:** IFPI &nbsp; **Carga Horária:** 60h  &nbsp; **Data de Conclusão:** 2023<br>
+**Instituição:** IFPI &nbsp; **Carga Horária:** 60 horas  &nbsp; **Data de Conclusão:** 2023<br>
 Estruturas de dados, lógica de programação, e técnicas de solução de problemas.
 
 ### Formação Desenvolva aplicações Web e Mobile com React e React Native
-**Instituição:** Alura &nbsp; **Carga Horária:** 36h  &nbsp; **Data de Conclusão:** 2023<br>
+**Instituição:** Alura &nbsp; **Carga Horária:** 36 horas  &nbsp; **Data de Conclusão:** 2023<br>
 Desenvolvimento de interfaces, integração com APIs, e gerenciamento de estados em aplicações web e móveis.
 
 ### Formação Desenvolva apps com Flutter
-**Instituição:** Alura &nbsp; **Carga Horária:** 106h  &nbsp; **Data de Conclusão:** 2022<br>
+**Instituição:** Alura &nbsp; **Carga Horária:** 106 horas  &nbsp; **Data de Conclusão:** 2022<br>
 Criação de interfaces responsivas, utilização de widgets, e arquitetura de aplicações com Flutter.
 
 ### Curso CSS Grid Layout
-**Instituição:** Origamid &nbsp; **Carga Horária:** 10h  &nbsp; **Data de Conclusão:** 2021<br>
+**Instituição:** Origamid &nbsp; **Carga Horária:** 10 horas  &nbsp; **Data de Conclusão:** 2021<br>
 Criação de layouts responsivos, utilização de áreas de grid, e alinhamento de elementos com CSS Grid.
 
 ### Curso CSS Flexbox
-**Instituição:** Origamid &nbsp; **Carga Horária:** 8h  &nbsp; **Data de Conclusão:** 2021<br>
+**Instituição:** Origamid &nbsp; **Carga Horária:** 8 horas  &nbsp; **Data de Conclusão:** 2021<br>
 Construção de layouts flexíveis, ordenação de elementos, e técnicas de alinhamento com Flexbox.
 
 ### Curso UI Design Avançado
-**Instituição:** Origamid &nbsp; **Carga Horária:** 15h  &nbsp; **Data de Conclusão:** 2021<br>
+**Instituição:** Origamid &nbsp; **Carga Horária:** 15 horas  &nbsp; **Data de Conclusão:** 2021<br>
 Design de interfaces complexas, uso de padrões de design, e criação de experiências de usuário eficientes.
 
 ### Curso UI Design para Iniciantes
-**Instituição:** Origamid &nbsp; **Carga Horária:** 17h  &nbsp; **Data de Conclusão:** 2021<br>
+**Instituição:** Origamid &nbsp; **Carga Horária:** 17 horas  &nbsp; **Data de Conclusão:** 2021<br>
 Fundamentos de design de interface, princípios de usabilidade, e criação de layouts básicos.
 
 ### Flutter Advanced Course - Clean Architecture With MVVM
-**Instituição:** Udemy &nbsp; **Carga Horária:** 20h  &nbsp; **Data de Conclusão:** 2021<br>
+**Instituição:** Udemy &nbsp; **Carga Horária:** 20 horas  &nbsp; **Data de Conclusão:** 2021<br>
 Implementação de arquitetura limpa, padrão MVVM, e desenvolvimento de aplicações escaláveis com Flutter.
