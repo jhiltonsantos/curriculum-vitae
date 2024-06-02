@@ -15,7 +15,7 @@ permalink: /
 
 ### Desenvolvedor
 
-Como front-end, trago uma experiência e conhecimento em desenvolvimento mobile, dedicado à qualidade das aplicações. Meu foco na manutenção do código e busca pela excelência do projeto são essenciais para assegurar a longevidade e confiabilidade do sistema de software. Estou constantemente atualizado com os padrões da indústria, empregando técnicas avançadas, boas práticas e certificações para garantir bons resultados.
+Como front-end, trago uma experiência e conhecimento em desenvolvimento mobile, dedicado à qualidade das aplicações. Foco na manutenção do código e busca pela excelência do projeto são essenciais para assegurar a longevidade e confiabilidade do sistema de software. Estou constantemente atualizado com os padrões da indústria, empregando técnicas avançadas, boas práticas e certificações para garantir bons resultados.
 
 ### Habilidades Comportamentais
 
