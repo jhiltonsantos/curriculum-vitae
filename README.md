@@ -17,11 +17,11 @@ permalink: /
 
 Como front-end, trago uma experiência e conhecimento em desenvolvimento mobile, dedicado à qualidade das aplicações. Foco na manutenção do código e busca pela excelência do projeto são essenciais para assegurar a longevidade e confiabilidade do sistema de software. Estou constantemente atualizado com os padrões da indústria, empregando técnicas avançadas, boas práticas e certificações para garantir bons resultados.
 
-### Habilidades Comportamentais
+### Soft skills
 
 `soft skills: collaboration, adaptability, attention to detail, problem-solving, communication, continuous learning.`
 
-Minha dedicação à integridade das soluções que desenvolvo, aliada à busca pela melhoria dos projetos, destaca-me pela capacidade de adaptação e atenção aos detalhes. Estou sempre pronto para aprender e me atualizar em tecnologias recentes, contribuindo de forma proativa para o sucesso dos projetos em que participo.
+Dedicação à integridade das soluções que desenvolvo, aliada à busca pela melhoria dos projetos, destaca-me pela capacidade de adaptação e atenção aos detalhes. Estou sempre pronto para aprender e me atualizar em tecnologias recentes, contribuindo de forma proativa para o sucesso dos projetos em que participo.
 
 
 ## Experiência profissional `work history`
