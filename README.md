@@ -66,34 +66,34 @@ O aplicativo [BuscaCEP](https://github.com/jhiltonsantos/buscaCep) permite consu
 Desenvolvimento Web e Aplicações Móveis, Engenharia de Software, Metodologia para Elaboração de projetos.
 
 
-## Certificações e Atividades Complementares `certifications and additional activities`
+## Cursos e Certificações `certifications and additional activities`
 
-### **Curso Next.js** - 18 horas - Origamid, 2024
+### Curso Next.js - Origamid - 18 horas - Abril de 2024
 Integração com APIs, renderização do lado do servidor, e otimização de desempenho.
 
-### **Curso React com Typescript** - 23 horas - Origamid, 2024
+### Curso React com Typescript - Origamid - 23 horas - Janeiro de 2024
 Tipagem estática, criação de componentes reutilizáveis, e gestão de estados com Typescript.
 
-### **Monitoria em Algoritmo e Programação** - 60 horas - IFPI Campus Teresina Central, 2023
+### Monitoria em Algoritmo e Programação - IFPI - 60 horas - Dezembro de 2023
 Estruturas de dados, lógica de programação, e técnicas de solução de problemas.
 
-### **Formação Desenvolva aplicações Web e Mobile com React e React Native** - 36 horas - Alura, 2023
+### Formação Desenvolva aplicações Web e Mobile com React e React Native - Alura - 36 horas - Março de 2023
 Desenvolvimento de interfaces, integração com APIs, e gerenciamento de estados em aplicações web e móveis.
 
-### **Formação Desenvolva apps com Flutter** - 106 horas - Alura, 2022
+### Formação Desenvolva apps com Flutter - Alura - 106 horas - Agosto de 2022
 Criação de interfaces responsivas, utilização de widgets, e arquitetura de aplicações com Flutter.
 
-### **Curso CSS Grid Layout** - 10 horas - Origamid, 2021
+### Curso CSS Grid Layout - Origamid - 10 horas - Julho de 2021
 Criação de layouts responsivos, utilização de áreas de grid, e alinhamento de elementos com CSS Grid.
 
-### **Curso CSS Flexbox** - 8 horas - Origamid, 2021
+### Curso CSS Flexbox - Origamid - 8 horas - Julho de 2021
 Construção de layouts flexíveis, ordenação de elementos, e técnicas de alinhamento com Flexbox.
 
-### **Curso UI Design Avançado** - 15 horas - Origamid, 2021
+### Curso UI Design Avançado - Origamid - 15 horas - Maio de 2021
 Design de interfaces complexas, uso de padrões de design, e criação de experiências de usuário eficientes.
 
-### **Curso UI Design para Iniciantes** - 17 horas - Origamid, 2021
+### Curso UI Design para Iniciantes - Origamid - 17 horas - Maio de 2021
 Fundamentos de design de interface, princípios de usabilidade, e criação de layouts básicos.
 
-### **Flutter Advanced Course - Clean Architecture With MVVM** - 20 horas - Udemy, 2021
+### Flutter Advanced Course - Udemy - Clean Architecture With MVVM - 20 horas - Fevereiro de 2021
 Implementação de arquitetura limpa, padrão MVVM, e desenvolvimento de aplicações escaláveis com Flutter.
