@@ -56,7 +56,7 @@ O aplicativo para dispositivos móveis e web [2Beauty](https://github.com/jhilto
 
 ### Criação de aplicativo para salvar dados de endereços - React Native, Typescript - 07/2023
 
-> utilizando API's com axios.
+> utilizando api's com axios.
 
 O apicativo [BuscaCEP](https://github.com/jhiltonsantos/buscaCep) permite consultar informações de localidade com base no CEP, utilizando a API da ViaCEP. Os dados são vinculados aos usuários, que também podem editar seus endereços. Além disso, o aplicativo inclui autenticação de usuário, possibilitando o acesso com credenciais fornecidas pelo MockAPI.
 
