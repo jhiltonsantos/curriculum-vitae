@@ -1,6 +1,6 @@
 ---
 layout: template.liquid
-permalink: /english
+permalink: /english.html
 ---
 
 # José Hilton da Silva Santos
