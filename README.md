@@ -9,19 +9,19 @@ permalink: /
 * **Email:** [jhilton930@gmail.com](mailto:jhilton930@gmail.com)
 * **Linkedin:** [linkedin.com/in/hiltonsantos9](https://linkedin.com/in/hiltonsantos9)
 * **Github:** [github.com/jhiltonsantos](https://github.com/jhiltonsantos)
-* **Whatsapp / Fone:** [+55 (86) 99458-3369](https://wa.me/+5586994583369)
+* **Whatsapp / Fone:** [+55 (86) 994583369](https://wa.me/+5586994583369)
 
 ## Resumo de habilidades
 
 ### Desenvolvedor
 
-Como front-end, trago uma experiência e conhecimento em desenvolvimento mobile, dedicado à qualidade das aplicações. Foco na manutenção do código e busca pela excelência do projeto são essenciais para assegurar a longevidade e confiabilidade do sistema de software. Estou constantemente atualizado com os padrões da indústria, empregando técnicas avançadas, boas práticas e certificações para garantir bons resultados.
+Como front-end, experiência e conhecimento em desenvolvimento mobile, dedicado à qualidade das aplicações. Foco na manutenção do código e busca pela excelência do projeto são essenciais para assegurar a longevidade e confiabilidade do sistema de software. Atualização constante com os padrões da indústria, empregando técnicas avançadas, boas práticas e certificações para garantir bons resultados.
 
 ### Soft skills
 
-`soft skills: collaboration, adaptability, attention to detail, problem-solving, communication, continuous learning.`
+`soft skills: collaboration, adaptability, attention to detail, problem-solving, communication, continuous learning, curiosity, creativity, team work, resilience, work under pressure, presentation skills.`
 
-Dedicação à integridade das soluções que desenvolvo, aliada à busca pela melhoria dos projetos, destaca-me pela capacidade de adaptação e atenção aos detalhes. Estou sempre pronto para aprender e me atualizar em tecnologias recentes, contribuindo de forma proativa para o sucesso dos projetos em que participo.
+Dedicação à integridade das soluções que desenvolvo, aliada à busca pela melhoria dos projetos, destaca-me pela capacidade de adaptação e atenção aos detalhes. Prontidão para aprender e me atualizar em tecnologias recentes, contribuindo de forma proativa para o sucesso dos projetos em que participo.
 
 
 ## Experiência profissional `work history`
@@ -36,7 +36,7 @@ Desenvolvimento de sites para investidores e administração da plataforma utili
 
 > Escola de ensino fundamental e médio localizada em Teresina, PI.
 
-Realização do monitoramento dos bancos de dados do sistema acadêmico da instituição, utilizando a plataforma TOTVS RM para garantir a integridade e o desempenho dos dados. Responsável pela transmissão e gravação de aulas de Educação a Distância (EaD), assegurando a qualidade e acessibilidade dos conteúdos para os alunos.
+Realização do monitoramento dos bancos de dados do sistema acadêmico da instituição, utilizando a plataforma TOTVS RM para garantir a integridade e o desempenho dos dados. Transmissão e gravação de aulas de Educação a Distância (EaD), assegurando a qualidade e acessibilidade dos conteúdos para os alunos.
 
 
 ## Projetos `achievements and recognition`
@@ -46,19 +46,19 @@ Realização do monitoramento dos bancos de dados do sistema acadêmico da insti
 > feito com o motor gráfico Unity junto da biblioteca AR Foundation.
 
 O jogo [Acompanhar RA](https://github.com/jhiltonsantos/ACOMPANHAR-RA) utiliza Realidade Aumentada e os princípios do método TEACCH para
-auxiliar no tratamento de pessoas com Transtorno do Espectro Autista. Ele visa criar um ambiente de aprendizagem inclusivo e estruturado, com foco na organização visual, promovendo a independência e o desenvolvimento de habilidades. Desenvolvido para dispositivos móveis, o aplicativo utiliza a câmera do aparelho para visualizar e interagir com objetos virtuais.
+auxiliar no tratamento de pessoas com Transtorno do Espectro Autista. visando criar um ambiente de aprendizagem inclusivo e estruturado, com foco na organização visual, promovendo a independência e o desenvolvimento de habilidades. Desenvolvido para dispositivos móveis, o aplicativo utiliza a câmera do aparelho para visualizar e interagir com objetos virtuais.
 
 ### Criação de aplicativo para agendamento de salões e barbearias - Flutter, Dart - 08/2022 a 10/2022
 
 > desenvolvido utilizando os padrões de arquitetura Clean Architecture e Domain-Driven Design (DDD).
 
-O aplicativo para dispositivos móveis e web [2Beauty](https://github.com/jhiltonsantos/two_beauty) permite que salões se cadastrem e destaquem seus principais atendimentos e diferenciais. Os usuários podem marcar horários com base na análise do salão e nos comentários de clientes. Os dados de endereço são salvos para exibir um mapa com os salões próximos.
+O aplicativo para dispositivos móveis e web [2Beauty](https://github.com/jhiltonsantos/two_beauty) permite que salões se cadastrem e destaquem seus principais atendimentos e diferenciais, permitindo marcação de horários com base na análise do salão e nos comentários de clientes. Os dados de endereço são salvos para exibir um mapa com os salões próximos.
 
 ### Criação de aplicativo para salvar dados de endereços - React Native, Typescript - 07/2023
 
 > utilizando api's com axios.
 
-O apicativo [BuscaCEP](https://github.com/jhiltonsantos/buscaCep) permite consultar informações de localidade com base no CEP, utilizando a API da ViaCEP. Os dados são vinculados aos usuários, que também podem editar seus endereços. Além disso, o aplicativo inclui autenticação de usuário, possibilitando o acesso com credenciais fornecidas pelo MockAPI.
+O apicativo [BuscaCEP](https://github.com/jhiltonsantos/buscaCep) permite consultar informações de localidade com base no CEP, utilizando a API da ViaCEP. Dados são vinculados aos usuários, que também podem editar seus endereços. Além disso, o aplicativo inclui autenticação de usuário, possibilitando o acesso com credenciais fornecidas pelo MockAPI.
 
 
 ## Formação acadêmica `education`
